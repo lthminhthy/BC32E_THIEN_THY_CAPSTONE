@@ -159,7 +159,7 @@ header.nav-fixed {
   z-index: 1;
   overflow: hidden;
   background: #000000;
-  background-image: linear-gradient(to right, #000000, rgba(255, 255, 255, 0.92)), url(../img/masterwork01.jpg);
+  background-image: linear-gradient(to right, #000000, rgba(255, 255, 255, 0.92)), url(../IMG/masterwork01.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -362,7 +362,7 @@ header.nav-fixed {
 
 .commit .new-block {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.33)), url(../img/masterwork07.jpg);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.33)), url(../IMG/masterwork07.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -484,7 +484,7 @@ header.nav-fixed {
       z-index: 1;
       overflow: hidden;
       background: #ffffff;
-      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../img/masterwork01.jpg);
+      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../IMG/masterwork01.jpg);
       background-repeat: no-repeat, no-repeat, no-repeat;
       background-position: center;
       background-attachment: fixed;
@@ -592,7 +592,7 @@ header.nav-fixed {
       z-index: 1;
       overflow: hidden;
       background: #ffffff;
-      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../img/masterwork01.jpg);
+      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../IMG/masterwork01.jpg);
       background-repeat: no-repeat, no-repeat, no-repeat;
       background-position: center;
       background-attachment: fixed;
@@ -700,7 +700,7 @@ header.nav-fixed {
       z-index: 1;
       overflow: hidden;
       background: #ffffff;
-      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../img/masterwork01.jpg);
+      background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0.92)), url(../IMG/masterwork01.jpg);
       background-repeat: no-repeat, no-repeat, no-repeat;
       background-position: center;
       background-attachment: fixed;
@@ -993,7 +993,7 @@ html {
 }
 /* TESTIMONIALS */
 #testimonials {
-  background-image: url(../img/b2.jpg);
+  background-image: url(../IMG/b2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
